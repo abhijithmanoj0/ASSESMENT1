@@ -1,0 +1,54 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+
+body{
+background-size: cover;
+
+}
+
+h1{
+    color:rgb(6, 24, 131);
+    margin-left: 100px;
+    margin-top:50px ;
+    font-family:cursive;
+
+}
+h2{
+   color: rgb(165, 17, 67); 
+   font-family:fantasy;
+   margin-left: 200px;
+   margin-top:50px ;
+}
+h3{
+    color: rgb(16, 179, 130);
+    margin-left: 200px;
+    margin-top: 25px;
+}
+
+h4{
+    color: rgb(25, 0, 255);
+    margin-left: 900px;
+    margin-bottom: 200px;
+    margin-top: 400px;
+}
+.head-tag{
+  
+    float:right;
+    margin-top: 400px;
+    padding-right: 50px;
+}
+.head-tag a{
+    text-decoration: none;
+    margin-right: 250;
+    border: 1px solid red;
+    padding:10px;
+    color: blueviolet;
+}
+.head-tag a:hover{
+    color: black;
+    background: red;
+    transform:0.5s ease-in-out;
+}
